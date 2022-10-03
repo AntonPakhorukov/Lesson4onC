@@ -1,0 +1,15 @@
+D:\Geek Brains 2022\C#\Lesson5\Examples\bin\Debug\net6.0\Examples.exe
+D:\Geek Brains 2022\C#\Lesson5\Examples\bin\Debug\net6.0\Examples.deps.json
+D:\Geek Brains 2022\C#\Lesson5\Examples\bin\Debug\net6.0\Examples.runtimeconfig.json
+D:\Geek Brains 2022\C#\Lesson5\Examples\bin\Debug\net6.0\Examples.dll
+D:\Geek Brains 2022\C#\Lesson5\Examples\bin\Debug\net6.0\Examples.pdb
+D:\Geek Brains 2022\C#\Lesson5\Examples\obj\Debug\net6.0\Examples.csproj.AssemblyReference.cache
+D:\Geek Brains 2022\C#\Lesson5\Examples\obj\Debug\net6.0\Examples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains 2022\C#\Lesson5\Examples\obj\Debug\net6.0\Examples.AssemblyInfoInputs.cache
+D:\Geek Brains 2022\C#\Lesson5\Examples\obj\Debug\net6.0\Examples.AssemblyInfo.cs
+D:\Geek Brains 2022\C#\Lesson5\Examples\obj\Debug\net6.0\Examples.csproj.CoreCompileInputs.cache
+D:\Geek Brains 2022\C#\Lesson5\Examples\obj\Debug\net6.0\Examples.dll
+D:\Geek Brains 2022\C#\Lesson5\Examples\obj\Debug\net6.0\refint\Examples.dll
+D:\Geek Brains 2022\C#\Lesson5\Examples\obj\Debug\net6.0\Examples.pdb
+D:\Geek Brains 2022\C#\Lesson5\Examples\obj\Debug\net6.0\Examples.genruntimeconfig.cache
+D:\Geek Brains 2022\C#\Lesson5\Examples\obj\Debug\net6.0\ref\Examples.dll
